@@ -7,17 +7,19 @@
 ## Acerca de mí
 Soy apasionado por la creación de experiencias web excepcionales, centrándome principalmente en el desarrollo Frontend.
 
-## Tecnologías y herramientas
-- JavaScript ⚡
-- React ⚛️
-- Redux 🔗
-- Redux Toolkit 🧰
-- Node.js 🚀
-- Sequelize 📦
-- PostgreSQL 🐘
-
 ## Educación
 - **Henry Coding Bootcamp** - Desarrollo Fullstack
+
+## Tecnologías y herramientas
+- JavaScript 
+- React 
+- Redux 
+- Redux Toolkit 
+- Node.js 
+- Sequelize 
+- PostgreSQL 
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 
 ## Contacto
 ¡Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) para cualquier consulta, colaboración o oportunidad profesional!

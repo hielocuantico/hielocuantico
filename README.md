@@ -11,14 +11,6 @@ Soy apasionado por la creación de experiencias web excepcionales, centrándome 
 - **Henry Coding Bootcamp** - Desarrollo Fullstack
 
 ## Tecnologías y herramientas
-- JavaScript 
-- React 
-- Redux 
-- Redux Toolkit 
-- Node.js 
-- Sequelize 
-- PostgreSQL
-
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">

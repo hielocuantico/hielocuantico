@@ -5,12 +5,12 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack con un fuerte enfoque en el desarrollo Frontend. Estudié en Henry, donde tuve una experiencia que ha enriquecido mucho mi trayectoria profesional.
 
 ## Acerca de mí
-Soy un apasionado creador de experiencias web excepcionales, con un enfoque principal en el desarrollo Frontend. Disfruto enfrentando desafíos y transformando ideas en proyectos tangibles. Esta labor no solo me impulsa a crecer como programador, sino que también contribuye a construir un futuro profesional sólido. La satisfacción de convertir conceptos en realidades funcionales es mi motivación diaria. 
+Soy un apasionado creador de experiencias web excepcionales, con un enfoque principal en el desarrollo Frontend. Disfruto enfrentando desafíos y transformando ideas en proyectos tangibles. Esta labor no solo me impulsa a crecer como programador, sino que también me contribuye a construir un futuro profesional sólido. La satisfacción de convertir conceptos en realidades funcionales es mi motivación diaria. 
 
 ## Educación
-<div style="display: flex; justify-content: center; align-items: center;">  
-  <p>- **Henry Coding Bootcamp** - Desarrollo Fullstack <img src="https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png" width="60px"></p>
-</div>
+<img src="https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png" width="60px">
+
+- **Henry Coding Bootcamp** - Desarrollo Fullstack 
 
 
 ## Tecnologías y herramientas

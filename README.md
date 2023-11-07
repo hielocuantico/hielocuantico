@@ -8,7 +8,9 @@
 Soy un apasionado creador de experiencias web excepcionales, con un enfoque principal en el desarrollo Frontend. Disfruto enfrentando desafíos y transformando ideas en proyectos tangibles. Esta labor no solo me impulsa a crecer como programador, sino que también contribuye a construir un futuro profesional sólido. La satisfacción de convertir conceptos en realidades funcionales es mi motivación diaria. 
 
 ## Educación
-- **Henry Coding Bootcamp** - Desarrollo Fullstack
+- **Henry Coding Bootcamp** - Desarrollo Fullstack <img src="https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png"  width: 60px>
+
+
 
 ## Tecnologías y herramientas
 <div style="display: flex; justify-content: space-around; align-items: center;">

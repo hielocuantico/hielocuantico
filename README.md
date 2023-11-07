@@ -1,3 +1,5 @@
+![banner](https://semidotinfotech.com/web/images/frontend_banner.jpg)
+
 # Hola, soy Julian 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack con un fuerte enfoque en el desarrollo Frontend. Estudié en Henry, una experiencia que ha enriquecido mi trayectoria profesional.

@@ -2,10 +2,10 @@
 
 # Hola, soy Julian 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack con un fuerte enfoque en el desarrollo Frontend. Estudié en Henry, una experiencia que ha enriquecido mi trayectoria profesional.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack con un fuerte enfoque en el desarrollo Frontend. Estudié en Henry, donde tuve una experiencia que ha enriquecido mucho mi trayectoria profesional.
 
 ## Acerca de mí
-Soy apasionado por la creación de experiencias web excepcionales, centrándome principalmente en el desarrollo Frontend.
+Soy un apasionado creador de experiencias web excepcionales, con un enfoque principal en el desarrollo Frontend. Disfruto enfrentando desafíos y transformando ideas en proyectos tangibles. Esta labor no solo me impulsa a crecer como programador, sino que también contribuye a construir un futuro profesional sólido. La satisfacción de convertir conceptos en realidades funcionales es mi motivación diaria. 
 
 ## Educación
 - **Henry Coding Bootcamp** - Desarrollo Fullstack

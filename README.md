@@ -1,19 +1,19 @@
 ![banner](https://semidotinfotech.com/web/images/frontend_banner.jpg)
 
-# Hola, soy Julian 👋
+# Hello, I'm Julian 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Fullstack con un fuerte enfoque en el desarrollo Frontend. Estudié en Henry, donde tuve una experiencia que ha enriquecido mucho mi trayectoria profesional.
+Welcome to my GitHub profile! I'm a Fullstack developer with a strong focus on Frontend development. I studied at Henry, where I had an experience that has greatly enriched my career path.
 
-## Acerca de mí
-Soy un apasionado creador de experiencias web excepcionales, con un enfoque principal en el desarrollo Frontend. Disfruto enfrentando desafíos y transformando ideas en proyectos tangibles. Esta labor no solo me impulsa a crecer como programador, sino que también me contribuye a construir un futuro profesional sólido. La satisfacción de convertir conceptos en realidades funcionales es mi motivación diaria. 
+## About me
+I am a passionate creator of exceptional web experiences, with a primary focus on Frontend development. I enjoy facing challenges and transforming ideas into tangible projects. This work not only drives me to grow as a programmer, but also helps me to build a solid professional future. The satisfaction of turning concepts into functional realities is my daily motivation. 
 
-## Educación
+## Education
 <img src="https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png" width="60px">
 
-- **Henry Coding Bootcamp** - Desarrollo Fullstack 
+- **Henry Coding Bootcamp** - Fullstack Development 
 
 
-## Tecnologías y herramientas
+## Technologies and tools
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
@@ -26,6 +26,6 @@ Soy un apasionado creador de experiencias web excepcionales, con un enfoque prin
 </div>
 
 ## Contacto
-¡Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) para cualquier consulta, colaboración o oportunidad profesional!
+You can find me on [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) for any consultation, collaboration or professional opportunity!
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!

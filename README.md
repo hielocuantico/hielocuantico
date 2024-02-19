@@ -1,4 +1,8 @@
-![banner](/noctowls-banner.jpg)
+// ![banner](/noctowls-banner.jpg)
+
+<div width="100%" height="200px">
+  <img style="object-fit: cover; object-size: center;" src="/noctowls-banner.jpg" >
+</div>
 
 # Hello, I'm Julian 👋
 

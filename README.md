@@ -1,8 +1,6 @@
-// ![banner](/noctowls-banner.jpg)
 
-<div width="100%" height="200px">
-  <img style="object-fit: cover; object-size: center;" src="/noctowls-banner.jpg" >
-</div>
+
+
 
 # Hello, I'm Julian 👋
 
@@ -33,3 +31,7 @@ I am a passionate creator of exceptional web experiences, with a primary focus o
 You can find me on [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) for any consultation, collaboration or professional opportunity!
 
 Thanks for visiting my profile!
+
+<div style="width: 100%; height: 200px;">
+  <img style="object-fit: cover; object-position: center;" src="/noctowls-banner.jpg" >
+</div>

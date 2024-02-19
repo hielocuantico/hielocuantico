@@ -1,4 +1,4 @@
-![banner](https://semidotinfotech.com/web/images/frontend_banner.jpg)
+![banner](/noctowls-banner.jpg)
 
 # Hello, I'm Julian 👋
 

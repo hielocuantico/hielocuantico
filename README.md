@@ -2,10 +2,10 @@
 
 # Hello, I'm Julian 👋
 
-Welcome to my GitHub profile! I'm a Fullstack developer with a strong focus on Frontend development. I studied at Henry, where I had an experience that has greatly enriched my career path.
+Welcome to my GitHub profile! I'm a Fullstack developer with a strong focus on Frontend development
 
 ## About me
-I am a passionate creator of exceptional web experiences, with a primary focus on Frontend development. I enjoy facing challenges and transforming ideas into tangible projects. This work not only drives me to grow as a programmer, but also helps me to build a solid professional future. The satisfaction of turning concepts into functional realities is my daily motivation. 
+I am a passionate creator of exceptional web experiences, with a primary focus on Frontend development. I enjoy facing challenges and transforming ideas into tangible projects.
 
 ## Education
 <img src="https://assets.soyhenry.com/logos/ISOLOGO_HENRY_BLACK.png" width="60px">

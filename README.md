@@ -1,7 +1,3 @@
-
-
-
-
 # Hello, I'm Julian 👋
 
 Welcome to my GitHub profile! I'm a Fullstack developer with a strong focus on Frontend development
@@ -25,9 +21,12 @@ I am a passionate creator of exceptional web experiences, with a primary focus o
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png">  
+  <img height="64px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
+  <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png">
+  <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png">
 </div>
 
-## Contacto
+## Contact
 You can find me on [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) for any consultation, collaboration or professional opportunity!
 
 Thanks for visiting my profile!

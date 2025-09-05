@@ -13,6 +13,7 @@ Desarrollador web con formación autodidacta en ingeniería de software, especia
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png">
+  <img height="64px" src="https://images.icon-icons.com/2107/PNG/512/file_type_mongo_icon_130383.png">
   <img height="64px" src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png">
   <img height="64px" src="https://images.icon-icons.com/2407/PNG/512/docker_icon_146192.png">
 </div>

@@ -1,9 +1,6 @@
-# Welcome to my profile 👋
+## 👋 Hola:
 
-Welcome to my GitHub profile! I'm a Fullstack developer with a strong focus on Frontend development
-
-## About me
-I am a passionate creator of exceptional web experiences, with a primary focus on Frontend development. I enjoy facing challenges and transforming ideas into tangible projects.
+Desarrollador web con formación autodidacta en ingeniería de software, especializado en la creación de aplicaciones enfocadas en la web. Aplico principios SOLID y arquitecturas limpias para garantizar código mantenible y escalable. Mi experiencia se ha forjado a través de proyectos y aprendizaje continuo, combinando buenas prácticas de desarrollo con un enfoque en la calidad y la eficiencia.
 
 ## Technologies and tools
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -19,7 +16,7 @@ I am a passionate creator of exceptional web experiences, with a primary focus o
   <img height="64px" src="https://images.icon-icons.com/2407/PNG/512/docker_icon_146192.png">
 </div>
 
-## Contact
+## 📫 Contact
 You can find me on [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) for any consultation, collaboration or professional opportunity!
 
 Thanks for visiting my profile!

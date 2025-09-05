@@ -18,4 +18,4 @@ Desarrollador web con formación autodidacta en ingeniería de software, especia
 </div>
 
 ## 📫 Contacto
-* Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) también.
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) también.

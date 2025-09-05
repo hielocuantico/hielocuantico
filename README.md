@@ -1,8 +1,9 @@
 ## 👋 Hola:
 
-Desarrollador web con formación autodidacta en ingeniería de software, especializado en la creación de aplicaciones enfocadas en la web. Aplico principios SOLID y arquitecturas limpias para garantizar código mantenible y escalable. Mi experiencia se ha forjado a través de proyectos y aprendizaje continuo, combinando buenas prácticas de desarrollo con un enfoque en la calidad y la eficiencia.
+Desarrollador web con formación autodidacta en ingeniería de software, especializado en la creación de aplicaciones enfocadas en la web. Aplico principios SOLID y arquitecturas limpias para garantizar código mantenible y escalable. Mi experiencia se ha forjado a través de proyectos y aprendizaje continuo, combinando buenas prácticas de desarrollo.
 
 ## Technologies and tools
+
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img height="64px" src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
@@ -17,6 +18,4 @@ Desarrollador web con formación autodidacta en ingeniería de software, especia
 </div>
 
 ## 📫 Contact
-You can find me on [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) for any consultation, collaboration or professional opportunity!
-
-Thanks for visiting my profile!
+* Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/julian-casta%C3%B1o-a-264a89278/) también.

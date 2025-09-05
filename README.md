@@ -13,7 +13,7 @@ I am a passionate creator of exceptional web experiences, with a primary focus o
 
 ## Technologies and tools
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">
+  <img height="64px" src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">

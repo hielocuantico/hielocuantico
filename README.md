@@ -15,7 +15,7 @@ I am a passionate creator of exceptional web experiences, with a primary focus o
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png">
   <img height="64px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png">
-  <img height="64px" src="https://icon-icons.com/es/icono/archivo-tipo-broma/130514">
+  <img height="64px" src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png">
 </div>
 
 ## Contact

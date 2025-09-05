@@ -1,4 +1,4 @@
-## 👋 Hola:
+## 👋 Hola!
 
 Desarrollador web con formación autodidacta en ingeniería de software, especializado en la creación de aplicaciones enfocadas en la web. Aplico principios SOLID y arquitecturas limpias para garantizar código mantenible y escalable. Mi experiencia se ha forjado a través de proyectos y aprendizaje continuo, combinando buenas prácticas de desarrollo.
 
